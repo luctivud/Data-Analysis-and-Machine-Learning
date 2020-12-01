@@ -1,0 +1,32 @@
+1> Which sector has the most number of data breaches in the time period?
+Ans> Web Sector followed by Government sector.
+
+2> Which sector has the least number of data breach ?
+Ans> Military Sector and Lecal Works.
+
+3> Which is the top two most preferred ways of data breaching?
+Ans> Hacked followed by Lost/ Stolen.
+
+4> Which sector is most effected by hacking precentwise?
+Ans> Web Sector as more than 80% data is breached through hacking. 
+     Financial sector is also greatly effected by hackers as 60-70% data is breached through hacking.
+
+5> How the data of military and Legal works have been breached?
+Ans> All of the breaching in those sectors were result of hacking.
+
+6> Which sector has accidentally published most of the data?
+Ans> Government sector has accidentally published around 25% of their data. None of the other sectors have accidentally published their data in this precetage.
+
+7> What is the effect of years on the cases of data breaching?
+Ans> The number of cases have increased from 1Billion to 35Billions from the years 2001 to 2011 in the lapse of 10 years.
+     The number of average cases per year have been constant thereafter.
+
+8> Which sector had the most cases of data breaching in one year?
+Ans> Web sector had most cases in 2012 - 2017 with their highest in 2016.
+
+9> How have the methods of data breaching shifted in recent years?
+Ans> The number of cases of stolen devices were higher till years 2009 and after than hacking has dominated as major source of data breaching.
+
+10> Which were the major breakthorugh in data breaching in any yaer?
+Ans> Hacking in Web sector in 2013 
+     Poor security in Government sector in 2017.
